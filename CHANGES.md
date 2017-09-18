@@ -1,4 +1,4 @@
-2016-10-13, Version 1.7.0
+2016-10-14, Version 1.7.0
 =========================
 
  * Use eslint in favour of JSHint (#129) (Simon Ho)
